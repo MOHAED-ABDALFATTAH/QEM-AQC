@@ -58,8 +58,7 @@ quantum-error-mitigation/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/quantum-error-mitigation.git
-cd quantum-error-mitigation
+git clone https://github.com/MOHAED-ABDALFATTAH/QEM-AQC
 ```
 
 2. **Create virtual environment**
@@ -352,9 +351,9 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{qem_ml_2024,
   title = {Quantum Error Mitigation using Machine Learning},
-  author = {Your Name},
-  year = {2024},
-  url = {https://github.com/yourusername/quantum-error-mitigation}
+  author = {(XEON) Team 7},
+  year = {2025},
+  url = {https://github.com/MOHAED-ABDALFATTAH/QEM-AQC}
 }
 ```
 
@@ -366,10 +365,10 @@ If you use this code in your research, please cite:
 
 ## 📧 Contact
 
-- **Author**: Your Name
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **Project Link**: https://github.com/yourusername/quantum-error-mitigation
+- **Author**: (XEON) Team 7
+- **Email**: 
+- **GitHub**: [@MOHAEDABDALFATTAH](https://github.com/MOHAED-ABDALFATTAH)
+- **Project Link**: https://github.com/MOHAED-ABDALFATTAH/QEM-AQC
 
 ---
 
