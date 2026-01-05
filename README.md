@@ -31,9 +31,10 @@ This project implements advanced quantum error mitigation (QEM) techniques using
 quantum-error-mitigation/
 │
 ├── notebooks/
-│   ├── 01_data_generation.ipynb            # Two-stage noise-aware model
+│   ├── 01_data_generation.ipynb            #data set generation code
 │   ├── 02_data_exploration.ipynb           # EDA and statistical analysis
-│   └── 03_stacked_ensemble_training.ipynb  # XGBoost + NN + RF ensemble
+|   ├── 03_stacked_ensemble_training.ipynb  # XGBoost + NN + RF ensemble
+│   └── 04_noise_aware_qem.ipynb            # Two-stage noise-aware model
 │
 ├── data/
 │   └── sample_data/                        # Sample datasets (if included)
