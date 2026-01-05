@@ -37,8 +37,10 @@ quantum-error-mitigation/
 │   └── 04_noise_aware_qem.ipynb            # Two-stage noise-aware model
 │
 ├── data/
-│   └── sample_data/                        # Sample datasets (if included)
+│   └── sample_data                         # Sample datasets (if included)
 │
+├── team7 presentation.pdf                  #the ppt of the presentaion
+├── QEM_AQC.pdf                             #the report
 ├── requirements.txt                        # Python dependencies
 ├── README.md                               # This file
 └── LICENSE                                 # MIT License
